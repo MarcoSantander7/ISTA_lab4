@@ -42,3 +42,4 @@ insertar_usuario('Bob', 25)
 usuarios = consultar_usuarios()
 for usuario in usuarios:
     print(usuario)
+    
